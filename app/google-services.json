@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "849748417880",
+    "firebase_url": "https://ateneosocialnetwork.firebaseio.com",
+    "project_id": "ateneosocialnetwork",
+    "storage_bucket": "ateneosocialnetwork.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849748417880:android:5e13481288f46ddae0192d",
+        "android_client_info": {
+          "package_name": "com.example.ateneonotificationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849748417880-qb1pleit2b62c19csce5eq7h0uvfif75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcqMlK4KDWAQBvLRuUuhD_vbypLAlu3pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849748417880-qb1pleit2b62c19csce5eq7h0uvfif75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
